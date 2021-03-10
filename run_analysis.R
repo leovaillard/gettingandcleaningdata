@@ -28,6 +28,7 @@
 rm(list=ls())
 
 # Set working directory
+# In order ot run it, please modify the working directory as the one below corresponds to my personal computer
 setwd("C:/Users/LCVaillard/Documents/Maestria/00 - Material Adicional/Coursera/Data Science Specialization/Getting and Cleaning Data/Week 4")
 
 
